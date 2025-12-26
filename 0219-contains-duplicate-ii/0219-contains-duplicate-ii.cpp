@@ -13,7 +13,7 @@ public:
                     return true;
                 }
             }
-                m[nums[i]]=i;
+            m[nums[i]]=i;
         }
         return false;    
     }
