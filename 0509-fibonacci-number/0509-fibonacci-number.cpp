@@ -1,18 +1,15 @@
 class Solution {
 public:
-    int fib(int n) 
+    int findways(int n,vector<int>&dp)
     {
         if(n==0) return 0;
         if(n==1) return 1;
-        int a=0;
-        int b=1;
-        int ans;
-        for(int i=2;i<=n;i++)
-        {
-            ans=a+b;
-            a=b;
-            b=ans;
-        }
-        return ans;
+        if(dp[n]!=-1) return dp[n];
+        return dp[n]=findways(n-1,dp)+findways(n-2,dp);
+    }
+    int fib(int n) 
+    {
+        vector<int>dp(n+1,-1);
+        return findways(n,dp);
     }
 };
