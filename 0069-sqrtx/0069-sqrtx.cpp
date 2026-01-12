@@ -24,6 +24,6 @@ public:
                 l=mid+1;
             }
         }
-        return floor(e);
+        return e;
     }
 };
