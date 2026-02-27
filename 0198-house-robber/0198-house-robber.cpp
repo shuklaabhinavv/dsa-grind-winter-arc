@@ -1,22 +1,21 @@
 class Solution {
+private:
+    vector<int>dp;
+    vector<int>nums;
+    int n;
 public:
-    int solve(int n,vector<int>&dp,vector<int>&nums)
-    {
-        if(n<0)
-        {
-            return 0;
-        }
-        if(dp[n]!=-1) return dp[n];
-        int take=nums[n]+solve(n-2,dp,nums);
-        int nottake=solve(n-1,dp,nums);
-        return dp[n]=max(take,nottake);
+    int solve(int i){
+        if(i<0) return 0;
+        if(dp[i]!=-1) return dp[i];
+        int take=nums[i]+solve(i-2);
+        int nottake=solve(i-1);
+        return dp[i]=max(take,nottake);
     }
     int rob(vector<int>& nums) 
     {
-        int n=nums.size();
-        vector<int>dp(n+1,-1);  
-        int a=solve(n-1,dp,nums);
-        int b=solve(n-1,dp,nums);
-        return max(a,b);
+        this->nums=nums;
+        n=nums.size();
+        dp.assign(n,-1);  
+        return solve(n-1);
     }
 };
