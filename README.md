@@ -40,11 +40,13 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0217-contains-duplicate/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
