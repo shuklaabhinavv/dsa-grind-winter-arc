@@ -3,16 +3,18 @@ public:
     bool isAnagram(string s, string t) 
     {
         unordered_map<char,int>m;
-        unordered_map<char,int>n;
         for(auto x:s)
         {
             m[x]++;
         }
         for(auto x:t)
         {
-            n[x]++;
+            m[x]--;
         }
-        if(m==n) return true;
-        return false;
+        for(auto x:m)
+        {
+            if(x.second>0) return false;
+        }
+        return true;
     }
 };
