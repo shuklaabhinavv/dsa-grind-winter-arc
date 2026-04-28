@@ -47,6 +47,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | [0001-two-sum](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +71,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | [0016-3sum-closest](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0016-3sum-closest/) | Medium |
 | [0217-contains-duplicate](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,4 +81,24 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
