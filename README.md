@@ -48,6 +48,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0125-valid-palindrome](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0125-valid-palindrome/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,5 +62,6 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
