@@ -42,6 +42,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0217-contains-duplicate/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +66,8 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0242-valid-anagram/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
