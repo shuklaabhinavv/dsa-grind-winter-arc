@@ -34,3 +34,15 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 [Google Sheets](https://docs.google.com/spreadsheets/d/14Bx9OZGgr9qiGw1saogHev7usK2lgoiED4-4fSMgJ9I/edit?usp=sharing)
 
 # Peace Out ☮️
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+<!---LeetCode Topics End-->
