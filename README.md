@@ -41,6 +41,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -55,6 +56,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -122,4 +124,8 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
