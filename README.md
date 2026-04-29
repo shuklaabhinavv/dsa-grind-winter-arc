@@ -48,6 +48,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | [0036-valid-sudoku](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0049-group-anagrams/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0217-contains-duplicate/) | Easy |
@@ -128,4 +129,8 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0011-container-with-most-water/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
