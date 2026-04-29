@@ -47,6 +47,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | [0036-valid-sudoku](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0049-group-anagrams/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -66,6 +67,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | [0001-two-sum](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0001-two-sum/) | Easy |
 | [0036-valid-sudoku](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -116,4 +118,8 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0036-valid-sudoku/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
