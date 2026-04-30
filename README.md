@@ -45,6 +45,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | [0015-3sum](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0049-group-anagrams/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -100,6 +101,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0704-binary-search/) | Easy |
