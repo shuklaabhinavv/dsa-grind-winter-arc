@@ -57,6 +57,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | [0238-product-of-array-except-self](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0704-binary-search](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0704-binary-search/) | Easy |
+| [0739-daily-temperatures](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0739-daily-temperatures/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,4 +155,9 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0020-valid-parentheses/) | Easy |
+| [0739-daily-temperatures](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0739-daily-temperatures/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
