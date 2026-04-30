@@ -54,6 +54,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | [0217-contains-duplicate](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0704-binary-search](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0704-binary-search/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +100,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0704-binary-search](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
