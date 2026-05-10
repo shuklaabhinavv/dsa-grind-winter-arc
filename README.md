@@ -160,4 +160,12 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0739-daily-temperatures/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
