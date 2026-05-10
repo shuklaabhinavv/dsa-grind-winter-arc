@@ -70,6 +70,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | [0141-linked-list-cycle](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0567-permutation-in-string](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0567-permutation-in-string/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +170,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | [0021-merge-two-sorted-lists](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
