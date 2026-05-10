@@ -163,9 +163,11 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
