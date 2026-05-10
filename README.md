@@ -165,12 +165,18 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0206-reverse-linked-list/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
