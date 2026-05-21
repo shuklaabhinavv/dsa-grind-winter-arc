@@ -58,6 +58,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | [0347-top-k-frequent-elements](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0704-binary-search](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0739-daily-temperatures/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
