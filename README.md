@@ -163,6 +163,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -190,4 +191,8 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0141-linked-list-cycle/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
