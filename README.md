@@ -51,6 +51,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0217-contains-duplicate/) | Easy |
@@ -163,6 +164,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
@@ -187,6 +189,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0002-add-two-numbers/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
