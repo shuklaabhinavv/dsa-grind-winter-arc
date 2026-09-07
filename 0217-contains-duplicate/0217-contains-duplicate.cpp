@@ -3,9 +3,9 @@ public:
     bool containsDuplicate(vector<int>& nums) 
     {
         unordered_map<int,int>m;
-        for(auto n:nums)
+        for(auto x:nums)
         {
-            m[n]++;
+            m[x]++;
         }
         for(auto x:m)
         {
