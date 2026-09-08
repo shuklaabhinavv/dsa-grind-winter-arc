@@ -1,26 +1,27 @@
 class Solution {
 public:
-    static bool sortByVal(const pair<int, int> &a, const pair<int, int> &b)
+    static bool mysort(const pair<int,int>&a,const pair<int,int>&b)
     {
-        return a.second > b.second;
+        return a.second>b.second;
     }
-    vector<int> topKFrequent(vector<int>& nums, int k) {
+    vector<int> topKFrequent(vector<int>& nums, int k) 
+    {
         unordered_map<int,int>m;
-        for(int i=0;i<nums.size();i++)
+        for(auto x:nums)
         {
-            m[nums[i]]++;
+            m[x]++;
         }
-        vector<pair<int, int>>s;
-        for (auto i = m.begin(); i != m.end(); i++)
+        vector<pair<int,int>>p;
+        for(auto x:m)
         {
-            s.push_back({i->first, i->second});
+            p.push_back({x.first,x.second});
         }
-        sort(s.begin(),s.end(),sortByVal);
-        vector<int> ans;
-        for (int i=0;i<k;i++)
+        sort(p.begin(),p.end(),mysort);
+        vector<int>res;
+        for(int i=0;i<k;i++)
         {
-            ans.push_back(s[i].first);
+            res.push_back(p[i].first);
         }
-        return ans;
+        return res;
     }
 };
