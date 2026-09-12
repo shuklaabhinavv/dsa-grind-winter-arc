@@ -8,7 +8,7 @@ public:
         {
             int curr=(min(height[i],height[j]))*(j-i);
             ans=max(curr,ans);
-            if(height[j]>height[i])
+            if(height[j]>=height[i])
             {
                 i++;
             }
