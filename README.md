@@ -47,6 +47,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0036-valid-sudoku/) | Medium |
+| [0042-trapping-rain-water](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0049-group-anagrams/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -67,6 +68,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | [0015-3sum](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0141-linked-list-cycle/) | Easy |
@@ -153,6 +155,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -164,12 +167,14 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0042-trapping-rain-water/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0042-trapping-rain-water/) | Hard |
 | [0739-daily-temperatures](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0739-daily-temperatures/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
