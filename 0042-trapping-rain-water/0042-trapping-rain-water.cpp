@@ -8,7 +8,7 @@ public:
         int ans=0;
         while(l<r)
         {
-            if(lm<rm)
+            if(lm<=rm)
             {
                 l++;
                 lm=max(lm,height[l]);
