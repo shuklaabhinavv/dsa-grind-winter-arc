@@ -5,22 +5,22 @@ public:
         int r=height.size()-1;
         int lm=height[l];
         int rm=height[r];
-        int water=0;
+        int ans=0;
         while(l<r)
         {
             if(lm<rm)
             {
                 l++;
                 lm=max(lm,height[l]);
-                water+=(lm-height[l]);
+                ans+=(lm-height[l]);
             }
             else
             {
                 r--;
                 rm=max(rm,height[r]);
-                water+=(rm-height[r]);
+                ans+=(rm-height[r]);
             }
         }
-        return water;
+        return ans;
     }
 };
