@@ -203,4 +203,8 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0155-min-stack/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
