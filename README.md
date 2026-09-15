@@ -67,6 +67,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | [0011-container-with-most-water](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0016-3sum-closest/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -180,6 +181,7 @@ Let's connect on LinkedIn and grow together in our DSA journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shuklaabhinavv/dsa-grind-winter-arc/tree/main/0206-reverse-linked-list/) | Easy |
